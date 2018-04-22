@@ -1,1 +1,1 @@
-Replace this with an image, like your photo. Ensure you include some alt-text.
+![Descriptive portfolio image](http://www.thebluediamondgallery.com/typewriter/images/portfolio.jpg)
